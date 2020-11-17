@@ -2,4 +2,4 @@
 
 export(fun_pack)
 import(dplyr)
-
+import(tidyverse)
