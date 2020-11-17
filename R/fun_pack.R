@@ -1,3 +1,17 @@
+#' Obliczenia emisji spalin
+#'
+#' @param dane
+#' @param kategoria
+#' @param euro
+#' @param mode
+#' @param substancja
+#'
+#' @return
+#' @import dplyr tidyverse
+#' @export
+#'
+#' @examples
+
 fun_pack <- function(dane = input,
                      kategoria = "Passenger Cars",
                      paliwo = "Petrol",
